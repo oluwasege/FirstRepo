@@ -1,0 +1,16 @@
+C:\Users\whizz\Desktop\C# Classes\FirstRepo\bin\Debug\net5.0\FirstRepo.exe
+C:\Users\whizz\Desktop\C# Classes\FirstRepo\bin\Debug\net5.0\FirstRepo.deps.json
+C:\Users\whizz\Desktop\C# Classes\FirstRepo\bin\Debug\net5.0\FirstRepo.runtimeconfig.json
+C:\Users\whizz\Desktop\C# Classes\FirstRepo\bin\Debug\net5.0\FirstRepo.runtimeconfig.dev.json
+C:\Users\whizz\Desktop\C# Classes\FirstRepo\bin\Debug\net5.0\FirstRepo.dll
+C:\Users\whizz\Desktop\C# Classes\FirstRepo\bin\Debug\net5.0\ref\FirstRepo.dll
+C:\Users\whizz\Desktop\C# Classes\FirstRepo\bin\Debug\net5.0\FirstRepo.pdb
+C:\Users\whizz\Desktop\C# Classes\FirstRepo\obj\Debug\net5.0\FirstRepo.csprojAssemblyReference.cache
+C:\Users\whizz\Desktop\C# Classes\FirstRepo\obj\Debug\net5.0\FirstRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whizz\Desktop\C# Classes\FirstRepo\obj\Debug\net5.0\FirstRepo.AssemblyInfoInputs.cache
+C:\Users\whizz\Desktop\C# Classes\FirstRepo\obj\Debug\net5.0\FirstRepo.AssemblyInfo.cs
+C:\Users\whizz\Desktop\C# Classes\FirstRepo\obj\Debug\net5.0\FirstRepo.csproj.CoreCompileInputs.cache
+C:\Users\whizz\Desktop\C# Classes\FirstRepo\obj\Debug\net5.0\FirstRepo.dll
+C:\Users\whizz\Desktop\C# Classes\FirstRepo\obj\Debug\net5.0\ref\FirstRepo.dll
+C:\Users\whizz\Desktop\C# Classes\FirstRepo\obj\Debug\net5.0\FirstRepo.pdb
+C:\Users\whizz\Desktop\C# Classes\FirstRepo\obj\Debug\net5.0\FirstRepo.genruntimeconfig.cache
